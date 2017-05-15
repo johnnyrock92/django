@@ -48,7 +48,6 @@ C:\Users\Janusz>.\myenv\Scripts\activate
 ```
 
 ### 3. Instalacja django
-
 **a)**
 Zainstaluj django
 ```cmd
