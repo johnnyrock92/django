@@ -2,11 +2,11 @@
 
 ### 0. Instalacja Pythona
 
-##### a) Wejdź na stronę: https://www.python.org/downloads/
+**a)** Wejdź na stronę: https://www.python.org/downloads/
 
-##### b) Pobierz i zainstaluj Pythona
+**b)** Pobierz i zainstaluj Pythona
 
-##### c) Otwórz wiersz polecenia i wpisz:
+**c)** Otwórz wiersz polecenia i wpisz:
 \>python
 
 Powinno ukazać się to:
