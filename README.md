@@ -76,18 +76,18 @@ C:\Users\Janusz>dir mysite\mysite
 ### 2. Utwórz domyślną bazę danych oraz tabele
 ```cmd
 C:\Users\Janusz>cd mysite
-C:\Users\Janusz>python manage.py migrate
+C:\Users\Janusz\mysite>python manage.py migrate
 ```
 ### 3. Sprawdź czy baza danych została poprawnie utworzona "db.sqllite3" 
 ```cmd
-C:\Users\Janusz>dir
+C:\Users\Janusz\mysite>dir
 ```
 ### 4. Sprawdź twój projekt django
 
 **a)**
 Uruchom serwer deweloperski
 ```cmd
-C:\Users\Janusz>python manage.py runserver
+C:\Users\Janusz\mysite>python manage.py runserver
 ```
 
 **b)**
