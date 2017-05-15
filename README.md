@@ -5,8 +5,7 @@
 
 **b)** Pobierz i zainstaluj Pythona
 
-**c)** Otwórz wiersz polecenia i wpisz:
-\>python
+**c)** Otwórz wiersz polecenia i wpisz: python
 
 Powinno ukazać się to:
 ```cmd
