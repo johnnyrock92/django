@@ -19,8 +19,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ### 1. Instalacja Virtualenv (Wirtualne środowisko)
 **a)** Wejdź na stronę: https://pypi.python.org/pypi/virtualenv
+
 **b)** Pobierz: virtualenv-15.1.0.tar.gz (md5, pgp)
+
 **c)** Wypakuj pobrane archiwum: virtualenv-15.1.0.tar.gz
+
 **d)** Otwórz wiersz poleceń i przejdź do katalogu w którym masz rozpakowane archiwum:
 ```cmd
 C:\Users\Janusz>cd C:\Users\Janusz\Downloads\dist\virtualenv-15.1.0
