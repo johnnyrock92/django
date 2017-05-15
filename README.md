@@ -1,5 +1,4 @@
 # Instalacja django na Windows
-
 ### 0. Instalacja Pythona
 
 **a)** Wejdź na stronę: https://www.python.org/downloads/
@@ -67,3 +66,35 @@ Type "help", "copyright", "credits" or "license" for more information.
 1.11.1
 >>>
 ```
+
+# Writing your first app
+### 1. 
+Create a project
+
+>django-admin startproject mysite
+
+>dir mysite
+
+>dir mysite\mysite
+
+### 2.
+Create default database and tables
+
+>cd mysite
+
+>python manage.py migrate
+
+### 3.
+Check default sqllite3 database "db.sqllite3" 
+
+>dir
+
+### 4.
+Verify your Django project.
+
+a)
+Run development server
+>python manage.py runserver
+
+b)
+Goto http://127.0.0.1:8000/
