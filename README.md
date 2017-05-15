@@ -65,5 +65,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> import django
 >>> print(django.get_version())
 1.11.1
-```
 >>>
+```
