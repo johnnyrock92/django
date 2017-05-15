@@ -16,6 +16,7 @@ Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:42:59) [MSC v.1500 32 bit (
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
 ### 1. Instalacja Virtualenv (Wirtualne środowisko)
 
 **a)** Wejdź na stronę: https://pypi.python.org/pypi/virtualenv
@@ -32,6 +33,7 @@ C:\Users\Janusz>cd C:\Users\Janusz\Downloads\dist\virtualenv-15.1.0
 ```cmd
 C:\Users\Janusz\Downloads\dist\virtualenv-15.1.0>python setup.py install
 ```
+
 ### 2. Utwórz i aktywuj wirtualne środowisko
 
 **a)** Utwórz wirtualne środowisko nazywając je: "myenv"
@@ -44,6 +46,7 @@ C:\Users\Janusz>dir
 C:\Users\Janusz>.\myenv\Scripts\activate
 (myenv) C:\Users\Janusz
 ```
+
 ### 3. Instalacja django
 
 **a)**
