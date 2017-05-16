@@ -82,12 +82,6 @@ C:\Users\Janusz>.\myenv\Scripts\activate
 ### 3. Sprawdź czy baza danych została poprawnie utworzona "db.sqllite3" 
 ```cmd
 (myenv) C:\Users\Janusz\mysite>dir
-(myenv) C:\Users\Janusz>cd mysite
-(myenv) C:\Users\Janusz\mysite>python manage.py migrate
-```
-### 3. Sprawdź czy baza danych została poprawnie utworzona "db.sqllite3" 
-```cmd
-(myenv) C:\Users\Janusz\mysite>dir
 ```
 ### 4. Sprawdź twój projekt django
 
