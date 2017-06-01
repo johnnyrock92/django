@@ -70,7 +70,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ### 1. Utwórz projekt
 ```cmd
 C:\Users\Janusz>.\myenv\Scripts\activate
-(myenv) C:\Users\Janusz>django-admin startproject mysite
+(myenv) C:\Users\Janusz>django-admin startproject mysite .
 (myenv) C:\Users\Janusz>dir mysite
 (myenv) C:\Users\Janusz>dir mysite\mysite
 ```
