@@ -72,7 +72,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 C:\Users\Janusz>.\myenv\Scripts\activate
 (myenv) C:\Users\Janusz>django-admin startproject mysite .
 (myenv) C:\Users\Janusz>dir mysite
-(myenv) C:\Users\Janusz>dir mysite\mysite
 ```
 ### 2. Utwórz domyślną bazę danych oraz tabele
 ```cmd
